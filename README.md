@@ -1,10 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Faheem Hamid</h1>
-<h3 align="center">About Me :</h3>
+
 <img  align="right" alt="coding" width="400"  src="https://miro.medium.com/v2/format:jpg/resize:fill:80:56/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faheemw09&label=Profile%20views&color=0e75b6&style=flat" alt="faheemw09" /> </p>
 
 <p align="left"> <a href="https://twitter.com/faheemw09" target="blank"><img src="https://img.shields.io/twitter/follow/faheemw09?logo=twitter&style=for-the-badge" alt="faheemw09" /></a> </p>
+<h1 align="left">About Me :</h1>
 
 - 🌱 I’m currently learning **MERN**
 
