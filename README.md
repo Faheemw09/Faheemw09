@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **react, APIs, HTML, CSS**
-
+- 👨🏻‍🎓 Visit my **[Portfolio](https://Faheemw09.github.io/)**
 - 📫 How to reach me **faheemh712@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/15Ba1q6uOBHNc3vLBoytYS3U7KSpXQFg9/view?usp=share_link](https://drive.google.com/file/d/15Ba1q6uOBHNc3vLBoytYS3U7KSpXQFg9/view?usp=share_link)
