@@ -7,9 +7,9 @@
 <p align="left"> <a href="https://twitter.com/faheemw09" target="blank"><img src="https://img.shields.io/twitter/follow/faheemw09?logo=twitter&style=for-the-badge" alt="faheemw09" /></a> </p>
 <h1 align="left">About Me :</h1>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 Full Stack Web Development(Mern Stack)
 
-- 💬 Ask me about **react, APIs, HTML, CSS**
+- 💬 Ask me about **react, APIs, HTML, CSS,redux,Node,**
 - 👨🏻‍🎓 Visit my **[Portfolio](https://faheemw09.github.io/)**
 - 📫 How to reach me **faheemh712@gmail.com**
 
