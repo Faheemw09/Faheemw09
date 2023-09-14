@@ -9,7 +9,7 @@
 
 - 🌱 Full Stack Web Development(Mern Stack)
 
-- 💬 Ask me about **HTML,CSS,JavaScript,React,Redux,Node,Express,MongoDb,Generative-AI,Prompt Engineering**
+- 💬 Ask me about **HTML,CSS,JavaScript,React,Redux,Node,Express,MongoDB,Generative-AI,Prompt Engineering**
 - 👨🏻‍🎓 Visit my **[Portfolio](https://faheemw09.github.io/)**
 - 📫 How to reach me **faheemh712@gmail.com**
 
@@ -20,31 +20,39 @@
 <a href="https://twitter.com/faheemw09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="faheemw09" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/faheem-hamid-529403160/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/faheem-hamid-529403160/" height="30" width="40" /></a>
 </p>
+<h3 align="left">Languages & Markup:</h3>
 
-<h3 align="left">Languages:</h3>
-
-- ![Markdown](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg) Markdown
-- ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) HTML5
-- ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) CSS3
-- ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) JavaScript
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 <h3 align="left">Frameworks:</h3>
 
-- ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) React
-- ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) Node.js
-- ![Redux](https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg) Redux
-- ![Express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg) Express
-- ![Material-UI](https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg) Material-UI
-- ![Chakra UI](https://www.chakra-ui.com/favicon.png) Chakra UI
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) 
+![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white) 
+![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white) 
+![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) 
+![Chakra UI](https://img.shields.io/badge/Chakra%20UI-%23319795.svg?style=for-the-badge&logo=chakra-ui&logoColor=white)
 
 <h3 align="left">Databases:</h3>
 
-- ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg) MongoDB
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <h3 align="left">Hosting/SaaS:</h3>
 
-- ![Netlify](https://www.netlify.com/img/press/logos/logomark.png) Netlify
-- ![Vercel](https://assets.vercel.com/image/upload/front/favicon/favicon.ico) Vercel
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%23000000) 
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=%23000000)
+
+<h3 align="left">Testing:</h3>
+
+![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white) 
+![Cypress](https://img.shields.io/badge/Cypress-%2317202B.svg?style=for-the-badge&logo=cypress&logoColor=%2317202B)
+
+<h3 align="left">Version Control:</h3>
+
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faheemw09&show_icons=true&locale=en&layout=compact" alt="faheemw09" /></p>
