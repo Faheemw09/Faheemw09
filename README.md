@@ -9,11 +9,11 @@
 
 - 🌱 Full Stack Web Development(Mern Stack)
 
-- 💬 Ask me about **react, APIs, HTML, CSS,redux,Node,**
+- 💬 Ask me about **HTML,CSS,JavaScript,React,Redux,Node,Express,MongoDb,Generative-AI,Prompt Engineering**
 - 👨🏻‍🎓 Visit my **[Portfolio](https://faheemw09.github.io/)**
 - 📫 How to reach me **faheemh712@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15Ba1q6uOBHNc3vLBoytYS3U7KSpXQFg9/view?usp=share_link](https://drive.google.com/file/d/1dvsZUhRqGR0-Fa3vjCNCfchqEwUrUUM4/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ihWJLdfAhODOpOPCC5PEIz-KZ9UQvHSF/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
