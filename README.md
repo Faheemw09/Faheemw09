@@ -48,7 +48,7 @@
 
 <h3 align="left">Hosting/SaaS:</h3>
 <p align="left">
-  <img src="https://www.netlify.com/img/press/logos/logomark.png" alt="Netlify" width="40" height="40" /> Netlify,
+ <img src="https://www.netlify.com/img/press/logos/logomark.png" alt="Netlify" width="40" height="40" /> Netlify,
   <img src="https://assets.vercel.com/image/upload/front/favicon/favicon.ico" alt="Vercel" width="40" height="40" /> Vercel
 </p>
 
