@@ -23,24 +23,28 @@
 
 <h3 align="left">Languages:</h3>
 
-| Programming | Styling Languages |
-| :---------: | :--------------: |
-| ![Markdown](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg) Markdown | ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) HTML5, ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) CSS3, ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) JavaScript |
+- ![Markdown](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg) Markdown
+- ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) HTML5
+- ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) CSS3
+- ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) JavaScript
 
 <h3 align="left">Frameworks:</h3>
 
-| ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) React | ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) Node.js, ![Redux](https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg) Redux, ![Express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg) Express, ![Material-UI](https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg) Material-UI, ![Chakra UI](https://www.chakra-ui.com/favicon.png) Chakra UI |
+- ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) React
+- ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) Node.js
+- ![Redux](https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg) Redux
+- ![Express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg) Express
+- ![Material-UI](https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg) Material-UI
+- ![Chakra UI](https://www.chakra-ui.com/favicon.png) Chakra UI
 
 <h3 align="left">Databases:</h3>
 
-| ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg) MongoDB |
+- ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg) MongoDB
 
 <h3 align="left">Hosting/SaaS:</h3>
 
-| ![Netlify](https://www.netlify.com/img/press/logos/logomark.png) Netlify | ![Vercel](https://assets.vercel.com/image/upload/front/favicon/favicon.ico) Vercel |
-
-
-
+- ![Netlify](https://www.netlify.com/img/press/logos/logomark.png) Netlify
+- ![Vercel](https://assets.vercel.com/image/upload/front/favicon/favicon.ico) Vercel
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faheemw09&show_icons=true&locale=en&layout=compact" alt="faheemw09" /></p>
