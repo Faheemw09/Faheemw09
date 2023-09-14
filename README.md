@@ -22,11 +22,15 @@
 </p>
 
 <h3 align="left">Languages:</h3>
-<p align="left">
-  Programming: <strong>Markdown</strong><br>
-  Styling Languages: <strong>HTML, CSS, JavaScript</strong>
-</p>
 
+<p align="left">
+  Programming: 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="Markdown" width="40" height="40" /> Markdown<br>
+  Styling Languages: 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" /> HTML5,
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" /> CSS3,
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /> JavaScript
+</p>
 <h3 align="left">Frameworks:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /> React,
