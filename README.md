@@ -22,20 +22,21 @@
 </p>
 
 <h3 align="left">Languages:</h3>
-
 <p align="left">
-  Programming: 
+  Programming:
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="Markdown" width="40" height="40" /> Markdown<br>
-  Styling Languages: 
+  Styling Languages:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" /> HTML5,
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" /> CSS3,
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /> JavaScript
 </p>
+
 <h3 align="left">Frameworks:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /> React,
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" /> Node.js,
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" /> Redux,
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" /> Express,
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material-UI" width="40" height="40" /> Material-UI,
   <img src="https://www.chakra-ui.com/favicon.png" alt="Chakra UI" width="40" height="40" /> Chakra UI
 </p>
@@ -48,7 +49,7 @@
 <h3 align="left">Hosting/SaaS:</h3>
 <p align="left">
   <img src="https://www.netlify.com/v3/static/favicon/favicon-32x32.png" alt="Netlify" width="40" height="40" /> Netlify,
-  <img src="https://www.vercel.com/vercel.png" alt="Vercel" width="40" height="40" /> Vercel
+  <img src="https://assets.vercel.com/image/upload/front/favicon/favicon.ico" alt="Vercel" width="40" height="40" /> Vercel
 </p>
 
 <h3 align="left">Testing:</h3>
@@ -61,6 +62,7 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40" /> GitHub
 </p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faheemw09&show_icons=true&locale=en&layout=compact" alt="faheemw09" /></p>
