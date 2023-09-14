@@ -1,5 +1,4 @@
-
-<h1 align="center">Hi 👋, I'm Faheem Hamid</h1>
+<h1 align="center">👋 Hi, I'm Faheem</h1>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/format:jpg/resize:fill:80:56/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
@@ -9,17 +8,18 @@
 
 <p align="left"> 
   <a href="https://twitter.com/faheemw09" target="blank">
-    <img src="https://img.shields.io/twitter/follow/faheemw09?logo=twitter&style=for-the-badge" alt="faheemw09" />
+    <img src="https://img.shields.io/twitter/follow/faheemw09?logo=twitter&style=for-the-badge&color=1DA1F2" alt="faheemw09" />
   </a>
 </p>
 
-<h1 align="left">About Me :</h1>
+<h1 align="left">About Me</h1>
 
 - 🌱 Full Stack Web Development (MERN Stack)
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Node, Express, MongoDB, Generative-AI, Prompt Engineering**
 - 👨🏻‍🎓 Visit my **[Portfolio](https://faheemw09.github.io/)**
 - 📫 How to reach me **faheemh712@gmail.com**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ihWJLdfAhODOpOPCC5PEIz-KZ9UQvHSF/view?usp=sharing)
+
 
 
 <h3 align="left">Connect with me:</h3>
