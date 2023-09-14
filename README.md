@@ -23,19 +23,19 @@
 
 <h3 align="left">Languages:</h3>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; display: flex; align-items: center;">
+  <div style="background-color: #a0a0a0; padding: 10px; border-radius: 5px; display: flex; align-items: center;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="Markdown" width="40" height="40" style="margin-right: 10px;">
     <span>Markdown</span>
   </div>
-  <div style="background-color: #e0e0e0; padding: 10px; border-radius: 5px; display: flex; align-items: center;">
+  <div style="background-color: #a0a0a0; padding: 10px; border-radius: 5px; display: flex; align-items: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin-right: 10px;">
     <span>HTML5</span>
   </div>
-  <div style="background-color: #d0d0d0; padding: 10px; border-radius: 5px; display: flex; align-items: center;">
+  <div style="background-color: #a0a0a0; padding: 10px; border-radius: 5px; display: flex; align-items: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="margin-right: 10px;">
     <span>CSS3</span>
   </div>
-  <div style="background-color: #c0c0c0; padding: 10px; border-radius: 5px; display: flex; align-items: center;">
+  <div style="background-color: #a0a0a0; padding: 10px; border-radius: 5px; display: flex; align-items: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 10px;">
     <span>JavaScript</span>
   </div>
@@ -43,23 +43,23 @@
 
 <h3 align="left">Frameworks:</h3>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; display: flex; align-items: center;">
+  <div style="background-color: #a0a0a0; padding: 10px; border-radius: 5px; display: flex; align-items: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="margin-right: 10px;">
     <span>React</span>
   </div>
-  <div style="background-color: #e0e0e0; padding: 10px; border-radius: 5px; display: flex; align-items: center;">
+  <div style="background-color: #a0a0a0; padding: 10px; border-radius: 5px; display: flex; align-items: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" style="margin-right: 10px;">
     <span>Node.js</span>
   </div>
-  <div style="background-color: #d0d0d0; padding: 10px; border-radius: 5px; display: flex; align-items: center;">
+  <div style="background-color: #a0a0a0; padding: 10px; border-radius: 5px; display: flex; align-items: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" style="margin-right: 10px;">
     <span>Redux</span>
   </div>
-  <div style="background-color: #c0c0c0; padding: 10px; border-radius: 5px; display: flex; align-items: center;">
+  <div style="background-color: #a0a0a0; padding: 10px; border-radius: 5px; display: flex; align-items: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" style="margin-right: 10px;">
     <span>Express</span>
   </div>
-  <div style="background-color: #b0b0b0; padding: 10px; border-radius: 5px; display: flex; align-items: center;">
+  <div style="background-color: #a0a0a0; padding: 10px; border-radius: 5px; display: flex; align-items: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material-UI" width="40" height="40" style="margin-right: 10px;">
     <span>Material-UI</span>
   </div>
@@ -68,6 +68,27 @@
     <span>Chakra UI</span>
   </div>
 </div>
+
+<h3 align="left">Databases:</h3>
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <div style="background-color: #a0a0a0; padding: 10px; border-radius: 5px; display: flex; align-items: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="margin-right: 10px;">
+    <span>MongoDB</span>
+  </div>
+</div>
+
+<h3 align="left">Hosting/SaaS:</h3>
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <div style="background-color: #a0a0a0; padding: 10px; border-radius: 5px; display: flex; align-items: center;">
+    <img src="https://www.netlify.com/img/press/logos/logomark.png" alt="Netlify" width="40" height="40" style="margin-right: 10px;">
+    <span>Netlify</span>
+  </div>
+  <div style="background-color: #a0a0a0; padding: 10px; border-radius: 5px; display: flex; align-items: center;">
+    <img src="https://assets.vercel.com/image/upload/front/favicon/favicon.ico" alt="Vercel" width="40" height="40" style="margin-right: 10px;">
+    <span>Vercel</span>
+  </div>
+</div>
+
 
 
 
